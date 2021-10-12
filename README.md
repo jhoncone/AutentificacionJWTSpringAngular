@@ -1,5 +1,5 @@
 # AutentificacionJWTSpringAngular
-Autentificacion Jwt con Springboot , Angular
+Autentificacion Jwt 
 
 Para iniciar sesion
 Nombre Usuario: adm
