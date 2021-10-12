@@ -2,8 +2,8 @@
 
 
 -Para iniciar sesion como supervisorstaff
-Nombre Usuario: adm
-Password: admi
+Nombre Usuario: supervisor
+Password: supervisor
 
 -Para iniciar sesion como supervisorstaff
 Nombre Usuario: user
