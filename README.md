@@ -1,5 +1,5 @@
-# AutentificacionJWTSpringAngular
-Autentificacion Jwt 
+# AutentificacionJWT
+
 
 -Para iniciar sesion como supervisorstaff
 Nombre Usuario: adm
